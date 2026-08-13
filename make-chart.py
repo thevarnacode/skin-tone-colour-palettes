@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Regenerate tone-chart.png from data/tones.json.
+Regenerate tone-chart.png from tones.json.
 
-    python3 tools/make-chart.py
+    python3 make-chart.py
 
 Requires Pillow.  Fonts: Lora (serif) and Lato (sans) — substitute freely,
 the paths are the only thing to change.
@@ -14,8 +14,8 @@ be regenerated from the data will drift away from it.
 from PIL import Image, ImageDraw, ImageFont
 import json, os
 
-HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TONES = json.load(open(os.path.join(HERE, 'data/tones.json'), encoding='utf-8'))
+HERE = os.path.dirname(os.path.abspath(__file__))
+TONES = json.load(open(os.path.join(HERE, 'tones.json'), encoding='utf-8'))
 
 # Tokens — keep in step with the brand system
 BG, INK, MUT, RULE = '#F2EDE4', '#171412', '#71685E', '#D6CCBD'

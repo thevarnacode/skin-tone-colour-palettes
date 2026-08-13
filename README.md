@@ -18,11 +18,12 @@ Use it, fork it, build on it. Just say where it came from.
 
 | File | Contents |
 |---|---|
-| `data/tones.json` | The 8 tones, with Monk and Fitzpatrick mappings |
-| `data/palettes.json` | **All 24 palettes** — 8 tones × 3 undertones — 8 colours each, plus colours to avoid |
-| `data/palettes.csv` | The same 192 colours, flat, for spreadsheets and pandas |
-| `data/season-neutrals.json` | Neutrals by seasonal family — **the part most datasets omit** |
-| `data/pairings.json` | A four-term taxonomy for classifying any two-colour combination |
+| `tones.json` | The 8 tones, with Monk and Fitzpatrick mappings |
+| `palettes.json` | **All 24 palettes** — 8 tones × 3 undertones — 8 colours each, plus colours to avoid |
+| `palettes.csv` | The same 192 colours, flat, for spreadsheets and pandas |
+| `season-neutrals.json` | Neutrals by seasonal family — **the part most datasets omit** |
+| `pairings.json` | A four-term taxonomy for classifying any two-colour combination |
+| `make-chart.py` | Regenerates `tone-chart.png` from `tones.json` |
 
 ```
 tone      undertone  season        colours
@@ -59,7 +60,7 @@ Two are additions:
 
 ```python
 import json
-palettes = json.load(open('data/palettes.json'))
+palettes = json.load(open('palettes.json'))
 
 golden_warm = next(p for p in palettes
                    if p['tone'] == 'golden' and p['undertone'] == 'warm')
@@ -69,8 +70,16 @@ for c in golden_warm['colours']:
 ```
 
 ```js
-const palettes = require('./data/palettes.json');
+const palettes = require('./palettes.json');
 const deep = palettes.filter(p => p.season.startsWith('Deep'));
+```
+
+Or straight from the raw URL, no download:
+
+```python
+import json, urllib.request
+URL = 'https://raw.githubusercontent.com/thevarnacode/skin-tone-colour-palettes/main/palettes.json'
+palettes = json.load(urllib.request.urlopen(URL))
 ```
 
 ---
