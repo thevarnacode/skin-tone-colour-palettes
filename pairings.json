@@ -1,0 +1,47 @@
+{
+  "system": "The Varna Code Four Pairings",
+  "definition": "Any pairing of two colours is classified on two axes: the lightness gap between them, and the saturation of the stronger of the two. Both are ranked relative to the wearer’s own palette, never against a fixed threshold.",
+  "terms": [
+    {
+      "name": "Bold",
+      "contrast": "high",
+      "intensity": "high",
+      "description": "Far apart in depth, strong in colour. Attention-drawing; worn one at a time."
+    },
+    {
+      "name": "Classic",
+      "contrast": "high",
+      "intensity": "low",
+      "description": "Far apart in depth, quiet in colour. A clear light-dark relationship that reads as deliberate."
+    },
+    {
+      "name": "Rich",
+      "contrast": "low",
+      "intensity": "high",
+      "description": "Close in depth, deep in colour. Reads as depth rather than contrast."
+    },
+    {
+      "name": "Suave",
+      "contrast": "low",
+      "intensity": "low",
+      "description": "Close in depth, soft in colour. Tonal dressing."
+    }
+  ],
+  "contrast_levels": {
+    "high": [
+      "Deep Winter"
+    ],
+    "medium": [
+      "Deep Autumn",
+      "Warm Autumn",
+      "Warm Spring"
+    ],
+    "low": [
+      "Soft Autumn",
+      "Soft Summer",
+      "Cool Summer",
+      "Light Spring"
+    ]
+  },
+  "note": "Because ranking is relative, the same two colours can carry different names for different people. Navy and Dusty Rose is Bold on a Soft Summer palette and Rich on a Cool Summer palette."
+}

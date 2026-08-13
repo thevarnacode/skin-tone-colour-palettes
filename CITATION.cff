@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: Colour palettes for medium and deep skin tones (Monk 3-9)
+message: If you use this dataset, please cite it.
+type: dataset
+authors:
+  - family-names: Pareek
+    given-names: Shashank
+    affiliation: Varna Code
+    city: Jaipur
+    country: IN
+repository-code: "https://github.com/thevarnacode/skin-tone-colour-palettes"
+url: "https://varnacode.in"
+abstract: >-
+  Eight skin tones spanning Monk 3-9 and twenty-four colour palettes (192
+  colours with hex values), anchored to the Monk Skin Tone Scale, with
+  undertone treated as an axis separate from depth. Includes season-assigned
+  neutrals and a four-term taxonomy for classifying two-colour combinations.
+  Built for medium and deep skin, which the Western seasonal and Korean
+  personal-colour systems were not designed around.
+keywords:
+  - colour analysis
+  - color analysis
+  - skin tone
+  - Monk Skin Tone Scale
+  - melanin rich skin
+  - deep skin tones
+  - South Asian
+  - personal color
+  - colour palette
+license: CC-BY-4.0
+date-released: "2026-08-12"
+version: "1.0.0"

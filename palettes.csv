@@ -1,0 +1,193 @@
+tone,undertone,label,season,is_default,position,colour_name,hex
+ivory,cool,"Cool","Cool Summer",true,1,"Navy",#1B2A4A
+ivory,cool,"Cool","Cool Summer",true,2,"Slate Blue",#6A7FA8
+ivory,cool,"Cool","Cool Summer",true,3,"Sage",#8A9778
+ivory,cool,"Cool","Cool Summer",true,4,"Teal",#2A6B6B
+ivory,cool,"Cool","Cool Summer",true,5,"Raspberry",#B3446C
+ivory,cool,"Cool","Cool Summer",true,6,"Dusty Rose",#C08497
+ivory,cool,"Cool","Cool Summer",true,7,"Icy Blue",#A8C8DC
+ivory,cool,"Cool","Cool Summer",true,8,"Stone",#B8AC9C
+ivory,warm,"Warm","Light Spring",false,1,"Coral",#E07A5F
+ivory,warm,"Warm","Light Spring",false,2,"Peach",#E8A87C
+ivory,warm,"Warm","Light Spring",false,3,"Camel",#C19A6B
+ivory,warm,"Warm","Light Spring",false,4,"Turquoise",#30A5A5
+ivory,warm,"Warm","Light Spring",false,5,"Tomato Red",#E2543E
+ivory,warm,"Warm","Light Spring",false,6,"Golden Yellow",#E8B33C
+ivory,warm,"Warm","Light Spring",false,7,"Warm Moss",#7D8C3C
+ivory,warm,"Warm","Light Spring",false,8,"Warm Cream",#F5E9D0
+ivory,neutral,"Neutral","Soft Summer",false,1,"Navy",#1B2A4A
+ivory,neutral,"Neutral","Soft Summer",false,2,"Sage",#8A9778
+ivory,neutral,"Neutral","Soft Summer",false,3,"Dusty Rose",#C08497
+ivory,neutral,"Neutral","Soft Summer",false,4,"Teal",#2A6B6B
+ivory,neutral,"Neutral","Soft Summer",false,5,"Raspberry",#B3446C
+ivory,neutral,"Neutral","Soft Summer",false,6,"Slate Blue",#6A7FA8
+ivory,neutral,"Neutral","Soft Summer",false,7,"Mauve",#9A7A9A
+ivory,neutral,"Neutral","Soft Summer",false,8,"Stone",#B8AC9C
+honey,warm,"Warm","Warm Spring",true,1,"Coral",#E07A5F
+honey,warm,"Warm","Warm Spring",true,2,"Peach",#E8A87C
+honey,warm,"Warm","Warm Spring",true,3,"Warm Moss",#7D8C3C
+honey,warm,"Warm","Warm Spring",true,4,"Golden Yellow",#E8B33C
+honey,warm,"Warm","Warm Spring",true,5,"Camel",#C19A6B
+honey,warm,"Warm","Warm Spring",true,6,"Turquoise",#30A5A5
+honey,warm,"Warm","Warm Spring",true,7,"Coral Pink",#E88D7D
+honey,warm,"Warm","Warm Spring",true,8,"Warm Cream",#F5E9D0
+honey,cool,"Cool","Soft Summer",false,1,"Navy",#1B2A4A
+honey,cool,"Cool","Soft Summer",false,2,"Sage",#8A9778
+honey,cool,"Cool","Soft Summer",false,3,"Dusty Rose",#C08497
+honey,cool,"Cool","Soft Summer",false,4,"Teal",#2A6B6B
+honey,cool,"Cool","Soft Summer",false,5,"Raspberry",#B3446C
+honey,cool,"Cool","Soft Summer",false,6,"Slate Blue",#6A7FA8
+honey,cool,"Cool","Soft Summer",false,7,"Plum",#5C2A4D
+honey,cool,"Cool","Soft Summer",false,8,"Stone",#B8AC9C
+honey,neutral,"Neutral","Soft Autumn",false,1,"Teal",#2A6B6B
+honey,neutral,"Neutral","Soft Autumn",false,2,"Navy",#1B2A4A
+honey,neutral,"Neutral","Soft Autumn",false,3,"Camel",#C19A6B
+honey,neutral,"Neutral","Soft Autumn",false,4,"Sage",#8A9778
+honey,neutral,"Neutral","Soft Autumn",false,5,"Terracotta",#C4622D
+honey,neutral,"Neutral","Soft Autumn",false,6,"Mustard",#C8921A
+honey,neutral,"Neutral","Soft Autumn",false,7,"Dusty Rose",#C08497
+honey,neutral,"Neutral","Soft Autumn",false,8,"Stone",#B8AC9C
+golden,warm,"Warm","Warm Autumn",true,1,"Mossy Green",#6B7C4A
+golden,warm,"Warm","Warm Autumn",true,2,"Mustard",#C8921A
+golden,warm,"Warm","Warm Autumn",true,3,"Rust",#A03E1E
+golden,warm,"Warm","Warm Autumn",true,4,"Navy",#1B2A4A
+golden,warm,"Warm","Warm Autumn",true,5,"Terracotta",#C4622D
+golden,warm,"Warm","Warm Autumn",true,6,"Teal",#2A6B6B
+golden,warm,"Warm","Warm Autumn",true,7,"Camel",#C19A6B
+golden,warm,"Warm","Warm Autumn",true,8,"Bronze",#A67B3C
+golden,cool,"Cool","Soft Summer",false,1,"Navy",#1B2A4A
+golden,cool,"Cool","Soft Summer",false,2,"Teal",#2A6B6B
+golden,cool,"Cool","Soft Summer",false,3,"Raspberry",#B3446C
+golden,cool,"Cool","Soft Summer",false,4,"Sage",#8A9778
+golden,cool,"Cool","Soft Summer",false,5,"Charcoal",#3D3D3D
+golden,cool,"Cool","Soft Summer",false,6,"Slate Blue",#6A7FA8
+golden,cool,"Cool","Soft Summer",false,7,"Plum",#5C2A4D
+golden,cool,"Cool","Soft Summer",false,8,"Stone",#B8AC9C
+golden,neutral,"Neutral","Soft Autumn",false,1,"Navy",#1B2A4A
+golden,neutral,"Neutral","Soft Autumn",false,2,"Teal",#2A6B6B
+golden,neutral,"Neutral","Soft Autumn",false,3,"Mossy Green",#6B7C4A
+golden,neutral,"Neutral","Soft Autumn",false,4,"Terracotta",#C4622D
+golden,neutral,"Neutral","Soft Autumn",false,5,"Mustard",#C8921A
+golden,neutral,"Neutral","Soft Autumn",false,6,"Camel",#C19A6B
+golden,neutral,"Neutral","Soft Autumn",false,7,"Plum",#5C2A4D
+golden,neutral,"Neutral","Soft Autumn",false,8,"Stone",#B8AC9C
+amber,warm,"Warm","Warm Autumn",true,1,"Terracotta",#C4622D
+amber,warm,"Warm","Warm Autumn",true,2,"Mustard",#C8921A
+amber,warm,"Warm","Warm Autumn",true,3,"Olive",#7D8C3C
+amber,warm,"Warm","Warm Autumn",true,4,"Teal",#2A6B6B
+amber,warm,"Warm","Warm Autumn",true,5,"Rust",#A03E1E
+amber,warm,"Warm","Warm Autumn",true,6,"Navy",#1B2A4A
+amber,warm,"Warm","Warm Autumn",true,7,"Bronze",#A67B3C
+amber,warm,"Warm","Warm Autumn",true,8,"Camel",#C19A6B
+amber,cool,"Cool","Soft Summer",false,1,"Navy",#1B2A4A
+amber,cool,"Cool","Soft Summer",false,2,"Teal",#2A6B6B
+amber,cool,"Cool","Soft Summer",false,3,"Plum",#5C2A4D
+amber,cool,"Cool","Soft Summer",false,4,"Sage",#8A9778
+amber,cool,"Cool","Soft Summer",false,5,"Charcoal",#3D3D3D
+amber,cool,"Cool","Soft Summer",false,6,"Raspberry",#B3446C
+amber,cool,"Cool","Soft Summer",false,7,"Slate Blue",#6A7FA8
+amber,cool,"Cool","Soft Summer",false,8,"Stone",#B8AC9C
+amber,neutral,"Neutral","Soft Autumn",false,1,"Teal",#2A6B6B
+amber,neutral,"Neutral","Soft Autumn",false,2,"Burgundy",#7C1D2E
+amber,neutral,"Neutral","Soft Autumn",false,3,"Olive",#7D8C3C
+amber,neutral,"Neutral","Soft Autumn",false,4,"Navy",#1B2A4A
+amber,neutral,"Neutral","Soft Autumn",false,5,"Terracotta",#C4622D
+amber,neutral,"Neutral","Soft Autumn",false,6,"Bronze",#A67B3C
+amber,neutral,"Neutral","Soft Autumn",false,7,"Mustard",#C8921A
+amber,neutral,"Neutral","Soft Autumn",false,8,"Camel",#C19A6B
+caramel,warm,"Warm · Olive","Deep Autumn",true,1,"Terracotta",#C4622D
+caramel,warm,"Warm · Olive","Deep Autumn",true,2,"Deep Olive",#5A6435
+caramel,warm,"Warm · Olive","Deep Autumn",true,3,"Aubergine",#4A2545
+caramel,warm,"Warm · Olive","Deep Autumn",true,4,"Sienna",#A0522D
+caramel,warm,"Warm · Olive","Deep Autumn",true,5,"Forest",#2D5A27
+caramel,warm,"Warm · Olive","Deep Autumn",true,6,"Bronze",#A67B3C
+caramel,warm,"Warm · Olive","Deep Autumn",true,7,"Spice Orange",#D2691E
+caramel,warm,"Warm · Olive","Deep Autumn",true,8,"Deep Mustard",#B8860B
+caramel,cool,"Cool","Deep Winter",false,1,"Emerald",#1B6B45
+caramel,cool,"Cool","Deep Winter",false,2,"Burgundy",#7C1D2E
+caramel,cool,"Cool","Deep Winter",false,3,"Navy",#1B2A4A
+caramel,cool,"Cool","Deep Winter",false,4,"Plum",#5C2A4D
+caramel,cool,"Cool","Deep Winter",false,5,"Teal",#2A6B6B
+caramel,cool,"Cool","Deep Winter",false,6,"Sapphire",#1F3C88
+caramel,cool,"Cool","Deep Winter",false,7,"Fuchsia",#C2185B
+caramel,cool,"Cool","Deep Winter",false,8,"Charcoal",#3D3D3D
+caramel,neutral,"Neutral","Soft Autumn",false,1,"Forest",#2D5A27
+caramel,neutral,"Neutral","Soft Autumn",false,2,"Teal",#2A6B6B
+caramel,neutral,"Neutral","Soft Autumn",false,3,"Burgundy",#7C1D2E
+caramel,neutral,"Neutral","Soft Autumn",false,4,"Terracotta",#C4622D
+caramel,neutral,"Neutral","Soft Autumn",false,5,"Navy",#1B2A4A
+caramel,neutral,"Neutral","Soft Autumn",false,6,"Bronze",#A67B3C
+caramel,neutral,"Neutral","Soft Autumn",false,7,"Deep Olive",#5A6435
+caramel,neutral,"Neutral","Soft Autumn",false,8,"Camel",#C19A6B
+mocha,warm,"Warm · Deep","Deep Autumn",true,1,"Gold",#C69B3C
+mocha,warm,"Warm · Deep","Deep Autumn",true,2,"Rust",#A03E1E
+mocha,warm,"Warm · Deep","Deep Autumn",true,3,"Navy",#1B2A4A
+mocha,warm,"Warm · Deep","Deep Autumn",true,4,"Forest",#2D5A27
+mocha,warm,"Warm · Deep","Deep Autumn",true,5,"Saffron",#E8820C
+mocha,warm,"Warm · Deep","Deep Autumn",true,6,"Terracotta",#C4622D
+mocha,warm,"Warm · Deep","Deep Autumn",true,7,"Deep Olive",#5A6435
+mocha,warm,"Warm · Deep","Deep Autumn",true,8,"Bronze",#A67B3C
+mocha,cool,"Cool · Deep","Deep Winter",false,1,"Emerald",#1B6B45
+mocha,cool,"Cool · Deep","Deep Winter",false,2,"Sapphire",#1F3C88
+mocha,cool,"Cool · Deep","Deep Winter",false,3,"Fuchsia",#C2185B
+mocha,cool,"Cool · Deep","Deep Winter",false,4,"Burgundy",#7C1D2E
+mocha,cool,"Cool · Deep","Deep Winter",false,5,"Charcoal",#3D3D3D
+mocha,cool,"Cool · Deep","Deep Winter",false,6,"Plum",#5C2A4D
+mocha,cool,"Cool · Deep","Deep Winter",false,7,"True Red",#C0182B
+mocha,cool,"Cool · Deep","Deep Winter",false,8,"Amethyst",#6C4AB0
+mocha,neutral,"Neutral · Deep","Deep Autumn",false,1,"Gold",#C69B3C
+mocha,neutral,"Neutral · Deep","Deep Autumn",false,2,"Emerald",#1B6B45
+mocha,neutral,"Neutral · Deep","Deep Autumn",false,3,"Navy",#1B2A4A
+mocha,neutral,"Neutral · Deep","Deep Autumn",false,4,"Burgundy",#7C1D2E
+mocha,neutral,"Neutral · Deep","Deep Autumn",false,5,"Saffron",#E8820C
+mocha,neutral,"Neutral · Deep","Deep Autumn",false,6,"Forest",#2D5A27
+mocha,neutral,"Neutral · Deep","Deep Autumn",false,7,"Terracotta",#C4622D
+mocha,neutral,"Neutral · Deep","Deep Autumn",false,8,"Bronze",#A67B3C
+espresso,neutral,"Deep · Rich","Deep Winter",true,1,"Emerald",#1B6B45
+espresso,neutral,"Deep · Rich","Deep Winter",true,2,"Indigo",#3D3580
+espresso,neutral,"Deep · Rich","Deep Winter",true,3,"Gold",#C69B3C
+espresso,neutral,"Deep · Rich","Deep Winter",true,4,"Saffron",#E8820C
+espresso,neutral,"Deep · Rich","Deep Winter",true,5,"Burgundy",#7C1D2E
+espresso,neutral,"Deep · Rich","Deep Winter",true,6,"Sapphire",#1F3C88
+espresso,neutral,"Deep · Rich","Deep Winter",true,7,"Fuchsia",#C2185B
+espresso,neutral,"Deep · Rich","Deep Winter",true,8,"True Red",#C0182B
+espresso,warm,"Warm · Deep","Deep Autumn",false,1,"Gold",#C69B3C
+espresso,warm,"Warm · Deep","Deep Autumn",false,2,"Saffron",#E8820C
+espresso,warm,"Warm · Deep","Deep Autumn",false,3,"Marigold",#E8A013
+espresso,warm,"Warm · Deep","Deep Autumn",false,4,"Emerald",#1B6B45
+espresso,warm,"Warm · Deep","Deep Autumn",false,5,"Rust",#A03E1E
+espresso,warm,"Warm · Deep","Deep Autumn",false,6,"Terracotta",#C4622D
+espresso,warm,"Warm · Deep","Deep Autumn",false,7,"Forest",#2D5A27
+espresso,warm,"Warm · Deep","Deep Autumn",false,8,"Bronze",#A67B3C
+espresso,cool,"Cool · Deep","Deep Winter",false,1,"Fuchsia",#C2185B
+espresso,cool,"Cool · Deep","Deep Winter",false,2,"Sapphire",#1F3C88
+espresso,cool,"Cool · Deep","Deep Winter",false,3,"Emerald",#1B6B45
+espresso,cool,"Cool · Deep","Deep Winter",false,4,"True Red",#C0182B
+espresso,cool,"Cool · Deep","Deep Winter",false,5,"Amethyst",#6C4AB0
+espresso,cool,"Cool · Deep","Deep Winter",false,6,"Indigo",#3D3580
+espresso,cool,"Cool · Deep","Deep Winter",false,7,"Plum",#5C2A4D
+espresso,cool,"Cool · Deep","Deep Winter",false,8,"Icy Blue",#A8C8DC
+cacao,neutral,"Deep · Rich","Deep Winter",true,1,"Emerald",#1B6B45
+cacao,neutral,"Deep · Rich","Deep Winter",true,2,"Sapphire",#1F3C88
+cacao,neutral,"Deep · Rich","Deep Winter",true,3,"Gold",#C69B3C
+cacao,neutral,"Deep · Rich","Deep Winter",true,4,"True Red",#C0182B
+cacao,neutral,"Deep · Rich","Deep Winter",true,5,"Fuchsia",#C2185B
+cacao,neutral,"Deep · Rich","Deep Winter",true,6,"Marigold",#E8A013
+cacao,neutral,"Deep · Rich","Deep Winter",true,7,"Amethyst",#6C4AB0
+cacao,neutral,"Deep · Rich","Deep Winter",true,8,"Icy Blue",#A8C8DC
+cacao,warm,"Warm · Deep","Deep Autumn",false,1,"Gold",#C69B3C
+cacao,warm,"Warm · Deep","Deep Autumn",false,2,"Saffron",#E8820C
+cacao,warm,"Warm · Deep","Deep Autumn",false,3,"Marigold",#E8A013
+cacao,warm,"Warm · Deep","Deep Autumn",false,4,"Emerald",#1B6B45
+cacao,warm,"Warm · Deep","Deep Autumn",false,5,"Rust",#A03E1E
+cacao,warm,"Warm · Deep","Deep Autumn",false,6,"Terracotta",#C4622D
+cacao,warm,"Warm · Deep","Deep Autumn",false,7,"Bronze",#A67B3C
+cacao,warm,"Warm · Deep","Deep Autumn",false,8,"Warm Cream",#F5E9D0
+cacao,cool,"Cool · Deep","Deep Winter",false,1,"Fuchsia",#C2185B
+cacao,cool,"Cool · Deep","Deep Winter",false,2,"Sapphire",#1F3C88
+cacao,cool,"Cool · Deep","Deep Winter",false,3,"Emerald",#1B6B45
+cacao,cool,"Cool · Deep","Deep Winter",false,4,"True Red",#C0182B
+cacao,cool,"Cool · Deep","Deep Winter",false,5,"Amethyst",#6C4AB0
+cacao,cool,"Cool · Deep","Deep Winter",false,6,"Icy Blue",#A8C8DC
+cacao,cool,"Cool · Deep","Deep Winter",false,7,"Indigo",#3D3580
+cacao,cool,"Cool · Deep","Deep Winter",false,8,"Cobalt",#1B4DA8

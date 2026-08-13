@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ivory",
+    "name": "Ivory",
+    "order": 1,
+    "swatch": "#f7ead0",
+    "monk_skin_tone": 3,
+    "fitzpatrick": "II-III",
+    "default_undertone": "cool",
+    "undertones": [
+      "cool",
+      "warm",
+      "neutral"
+    ]
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "order": 2,
+    "swatch": "#eadaba",
+    "monk_skin_tone": 4,
+    "fitzpatrick": "III",
+    "default_undertone": "warm",
+    "undertones": [
+      "warm",
+      "cool",
+      "neutral"
+    ]
+  },
+  {
+    "id": "golden",
+    "name": "Golden",
+    "order": 3,
+    "swatch": "#d7bd96",
+    "monk_skin_tone": 5,
+    "fitzpatrick": "IV",
+    "default_undertone": "warm",
+    "undertones": [
+      "warm",
+      "cool",
+      "neutral"
+    ]
+  },
+  {
+    "id": "amber",
+    "name": "Amber",
+    "order": 4,
+    "swatch": "#bb9d75",
+    "monk_skin_tone": "5-6",
+    "fitzpatrick": "IV",
+    "default_undertone": "warm",
+    "undertones": [
+      "warm",
+      "cool",
+      "neutral"
+    ]
+  },
+  {
+    "id": "caramel",
+    "name": "Caramel",
+    "order": 5,
+    "swatch": "#a07e56",
+    "monk_skin_tone": 6,
+    "fitzpatrick": "IV-V",
+    "default_undertone": "warm",
+    "undertones": [
+      "warm",
+      "cool",
+      "neutral"
+    ]
+  },
+  {
+    "id": "mocha",
+    "name": "Mocha",
+    "order": 6,
+    "swatch": "#825c43",
+    "monk_skin_tone": 7,
+    "fitzpatrick": "V",
+    "default_undertone": "warm",
+    "undertones": [
+      "warm",
+      "cool",
+      "neutral"
+    ]
+  },
+  {
+    "id": "espresso",
+    "name": "Espresso",
+    "order": 7,
+    "swatch": "#604134",
+    "monk_skin_tone": 8,
+    "fitzpatrick": "V-VI",
+    "default_undertone": "neutral",
+    "undertones": [
+      "neutral",
+      "warm",
+      "cool"
+    ]
+  },
+  {
+    "id": "cacao",
+    "name": "Cacao",
+    "order": 8,
+    "swatch": "#3a312a",
+    "monk_skin_tone": 9,
+    "fitzpatrick": "VI",
+    "default_undertone": "neutral",
+    "undertones": [
+      "neutral",
+      "warm",
+      "cool"
+    ]
+  }
+]

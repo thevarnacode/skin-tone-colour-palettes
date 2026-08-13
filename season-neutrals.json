@@ -1,0 +1,130 @@
+{
+  "Light Spring": [
+    {
+      "name": "Warm Ivory",
+      "hex": "#F5E9D0"
+    },
+    {
+      "name": "Camel",
+      "hex": "#C19A6B"
+    },
+    {
+      "name": "Light Warm Grey",
+      "hex": "#B7ADA1"
+    }
+  ],
+  "Warm Spring": [
+    {
+      "name": "Warm Ivory",
+      "hex": "#F5E9D0"
+    },
+    {
+      "name": "Camel",
+      "hex": "#C19A6B"
+    },
+    {
+      "name": "Warm Beige",
+      "hex": "#CBB79A"
+    }
+  ],
+  "Cool Summer": [
+    {
+      "name": "Dove Grey",
+      "hex": "#A9AFB6"
+    },
+    {
+      "name": "Soft Navy",
+      "hex": "#3B4A63"
+    },
+    {
+      "name": "Cool Taupe",
+      "hex": "#9E9891"
+    }
+  ],
+  "Soft Summer": [
+    {
+      "name": "Dove Grey",
+      "hex": "#A9AFB6"
+    },
+    {
+      "name": "Soft Navy",
+      "hex": "#3B4A63"
+    },
+    {
+      "name": "Cool Taupe",
+      "hex": "#9E9891"
+    }
+  ],
+  "Soft Autumn": [
+    {
+      "name": "Soft Charcoal",
+      "hex": "#4A4A47"
+    },
+    {
+      "name": "Warm Grey",
+      "hex": "#8C8378"
+    },
+    {
+      "name": "Taupe",
+      "hex": "#9C8B78"
+    },
+    {
+      "name": "Camel",
+      "hex": "#C19A6B"
+    }
+  ],
+  "Warm Autumn": [
+    {
+      "name": "Chocolate",
+      "hex": "#4E342E"
+    },
+    {
+      "name": "Camel",
+      "hex": "#C19A6B"
+    },
+    {
+      "name": "Deep Olive",
+      "hex": "#4F5A33"
+    },
+    {
+      "name": "Warm Ivory",
+      "hex": "#F5E9D0"
+    }
+  ],
+  "Deep Autumn": [
+    {
+      "name": "Chocolate",
+      "hex": "#3E2A22"
+    },
+    {
+      "name": "Deep Olive",
+      "hex": "#3F4A2A"
+    },
+    {
+      "name": "Camel",
+      "hex": "#B08D62"
+    },
+    {
+      "name": "Warm Ivory",
+      "hex": "#EFE3CB"
+    }
+  ],
+  "Deep Winter": [
+    {
+      "name": "Black",
+      "hex": "#1A1A1A"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#333338"
+    },
+    {
+      "name": "Deep Navy",
+      "hex": "#1E2A44"
+    },
+    {
+      "name": "Pure White",
+      "hex": "#F7F7F5"
+    }
+  ]
+}

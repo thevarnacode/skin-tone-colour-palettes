@@ -1,0 +1,1106 @@
+[
+  {
+    "tone": "ivory",
+    "undertone": "cool",
+    "label": "Cool",
+    "season": "Cool Summer",
+    "is_default": true,
+    "colours": [
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Slate Blue",
+        "hex": "#6A7FA8"
+      },
+      {
+        "name": "Sage",
+        "hex": "#8A9778"
+      },
+      {
+        "name": "Teal",
+        "hex": "#2A6B6B"
+      },
+      {
+        "name": "Raspberry",
+        "hex": "#B3446C"
+      },
+      {
+        "name": "Dusty Rose",
+        "hex": "#C08497"
+      },
+      {
+        "name": "Icy Blue",
+        "hex": "#A8C8DC"
+      },
+      {
+        "name": "Stone",
+        "hex": "#B8AC9C"
+      }
+    ],
+    "avoid": [
+      "Bright white",
+      "Pale yellow",
+      "Neon shades"
+    ]
+  },
+  {
+    "tone": "ivory",
+    "undertone": "warm",
+    "label": "Warm",
+    "season": "Light Spring",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Coral",
+        "hex": "#E07A5F"
+      },
+      {
+        "name": "Peach",
+        "hex": "#E8A87C"
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B"
+      },
+      {
+        "name": "Turquoise",
+        "hex": "#30A5A5"
+      },
+      {
+        "name": "Tomato Red",
+        "hex": "#E2543E"
+      },
+      {
+        "name": "Golden Yellow",
+        "hex": "#E8B33C"
+      },
+      {
+        "name": "Warm Moss",
+        "hex": "#7D8C3C"
+      },
+      {
+        "name": "Warm Cream",
+        "hex": "#F5E9D0"
+      }
+    ],
+    "avoid": [
+      "Stark black",
+      "Icy pastels",
+      "Neon shades"
+    ]
+  },
+  {
+    "tone": "ivory",
+    "undertone": "neutral",
+    "label": "Neutral",
+    "season": "Soft Summer",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Sage",
+        "hex": "#8A9778"
+      },
+      {
+        "name": "Dusty Rose",
+        "hex": "#C08497"
+      },
+      {
+        "name": "Teal",
+        "hex": "#2A6B6B"
+      },
+      {
+        "name": "Raspberry",
+        "hex": "#B3446C"
+      },
+      {
+        "name": "Slate Blue",
+        "hex": "#6A7FA8"
+      },
+      {
+        "name": "Mauve",
+        "hex": "#9A7A9A"
+      },
+      {
+        "name": "Stone",
+        "hex": "#B8AC9C"
+      }
+    ],
+    "avoid": [
+      "Bright white",
+      "Neon shades",
+      "Harsh black"
+    ]
+  },
+  {
+    "tone": "honey",
+    "undertone": "warm",
+    "label": "Warm",
+    "season": "Warm Spring",
+    "is_default": true,
+    "colours": [
+      {
+        "name": "Coral",
+        "hex": "#E07A5F"
+      },
+      {
+        "name": "Peach",
+        "hex": "#E8A87C"
+      },
+      {
+        "name": "Warm Moss",
+        "hex": "#7D8C3C"
+      },
+      {
+        "name": "Golden Yellow",
+        "hex": "#E8B33C"
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B"
+      },
+      {
+        "name": "Turquoise",
+        "hex": "#30A5A5"
+      },
+      {
+        "name": "Coral Pink",
+        "hex": "#E88D7D"
+      },
+      {
+        "name": "Warm Cream",
+        "hex": "#F5E9D0"
+      }
+    ],
+    "avoid": [
+      "Pastel pink",
+      "Light lavender",
+      "Light grey"
+    ]
+  },
+  {
+    "tone": "honey",
+    "undertone": "cool",
+    "label": "Cool",
+    "season": "Soft Summer",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Sage",
+        "hex": "#8A9778"
+      },
+      {
+        "name": "Dusty Rose",
+        "hex": "#C08497"
+      },
+      {
+        "name": "Teal",
+        "hex": "#2A6B6B"
+      },
+      {
+        "name": "Raspberry",
+        "hex": "#B3446C"
+      },
+      {
+        "name": "Slate Blue",
+        "hex": "#6A7FA8"
+      },
+      {
+        "name": "Plum",
+        "hex": "#5C2A4D"
+      },
+      {
+        "name": "Stone",
+        "hex": "#B8AC9C"
+      }
+    ],
+    "avoid": [
+      "Orange",
+      "Mustard",
+      "Camel"
+    ]
+  },
+  {
+    "tone": "honey",
+    "undertone": "neutral",
+    "label": "Neutral",
+    "season": "Soft Autumn",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Teal",
+        "hex": "#2A6B6B"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B"
+      },
+      {
+        "name": "Sage",
+        "hex": "#8A9778"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#C4622D"
+      },
+      {
+        "name": "Mustard",
+        "hex": "#C8921A"
+      },
+      {
+        "name": "Dusty Rose",
+        "hex": "#C08497"
+      },
+      {
+        "name": "Stone",
+        "hex": "#B8AC9C"
+      }
+    ],
+    "avoid": [
+      "Neon shades",
+      "Light grey",
+      "Pale pastels"
+    ]
+  },
+  {
+    "tone": "golden",
+    "undertone": "warm",
+    "label": "Warm",
+    "season": "Warm Autumn",
+    "is_default": true,
+    "colours": [
+      {
+        "name": "Mossy Green",
+        "hex": "#6B7C4A"
+      },
+      {
+        "name": "Mustard",
+        "hex": "#C8921A"
+      },
+      {
+        "name": "Rust",
+        "hex": "#A03E1E"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#C4622D"
+      },
+      {
+        "name": "Teal",
+        "hex": "#2A6B6B"
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B"
+      },
+      {
+        "name": "Bronze",
+        "hex": "#A67B3C"
+      }
+    ],
+    "avoid": [
+      "Bright white",
+      "Neon green",
+      "Light pastels"
+    ]
+  },
+  {
+    "tone": "golden",
+    "undertone": "cool",
+    "label": "Cool",
+    "season": "Soft Summer",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Teal",
+        "hex": "#2A6B6B"
+      },
+      {
+        "name": "Raspberry",
+        "hex": "#B3446C"
+      },
+      {
+        "name": "Sage",
+        "hex": "#8A9778"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#3D3D3D"
+      },
+      {
+        "name": "Slate Blue",
+        "hex": "#6A7FA8"
+      },
+      {
+        "name": "Plum",
+        "hex": "#5C2A4D"
+      },
+      {
+        "name": "Stone",
+        "hex": "#B8AC9C"
+      }
+    ],
+    "avoid": [
+      "Orange",
+      "Mustard",
+      "Warm beige"
+    ]
+  },
+  {
+    "tone": "golden",
+    "undertone": "neutral",
+    "label": "Neutral",
+    "season": "Soft Autumn",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Teal",
+        "hex": "#2A6B6B"
+      },
+      {
+        "name": "Mossy Green",
+        "hex": "#6B7C4A"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#C4622D"
+      },
+      {
+        "name": "Mustard",
+        "hex": "#C8921A"
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B"
+      },
+      {
+        "name": "Plum",
+        "hex": "#5C2A4D"
+      },
+      {
+        "name": "Stone",
+        "hex": "#B8AC9C"
+      }
+    ],
+    "avoid": [
+      "Bright white",
+      "Neon shades",
+      "Washed pastels"
+    ]
+  },
+  {
+    "tone": "amber",
+    "undertone": "warm",
+    "label": "Warm",
+    "season": "Warm Autumn",
+    "is_default": true,
+    "colours": [
+      {
+        "name": "Terracotta",
+        "hex": "#C4622D"
+      },
+      {
+        "name": "Mustard",
+        "hex": "#C8921A"
+      },
+      {
+        "name": "Olive",
+        "hex": "#7D8C3C"
+      },
+      {
+        "name": "Teal",
+        "hex": "#2A6B6B"
+      },
+      {
+        "name": "Rust",
+        "hex": "#A03E1E"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Bronze",
+        "hex": "#A67B3C"
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B"
+      }
+    ],
+    "avoid": [
+      "Bright white",
+      "Neon shades",
+      "Icy pastels"
+    ]
+  },
+  {
+    "tone": "amber",
+    "undertone": "cool",
+    "label": "Cool",
+    "season": "Soft Summer",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Teal",
+        "hex": "#2A6B6B"
+      },
+      {
+        "name": "Plum",
+        "hex": "#5C2A4D"
+      },
+      {
+        "name": "Sage",
+        "hex": "#8A9778"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#3D3D3D"
+      },
+      {
+        "name": "Raspberry",
+        "hex": "#B3446C"
+      },
+      {
+        "name": "Slate Blue",
+        "hex": "#6A7FA8"
+      },
+      {
+        "name": "Stone",
+        "hex": "#B8AC9C"
+      }
+    ],
+    "avoid": [
+      "Orange",
+      "Mustard",
+      "Warm beige"
+    ]
+  },
+  {
+    "tone": "amber",
+    "undertone": "neutral",
+    "label": "Neutral",
+    "season": "Soft Autumn",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Teal",
+        "hex": "#2A6B6B"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#7C1D2E"
+      },
+      {
+        "name": "Olive",
+        "hex": "#7D8C3C"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#C4622D"
+      },
+      {
+        "name": "Bronze",
+        "hex": "#A67B3C"
+      },
+      {
+        "name": "Mustard",
+        "hex": "#C8921A"
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B"
+      }
+    ],
+    "avoid": [
+      "Neon shades",
+      "Light grey",
+      "Washed pastels"
+    ]
+  },
+  {
+    "tone": "caramel",
+    "undertone": "warm",
+    "label": "Warm · Olive",
+    "season": "Deep Autumn",
+    "is_default": true,
+    "colours": [
+      {
+        "name": "Terracotta",
+        "hex": "#C4622D"
+      },
+      {
+        "name": "Deep Olive",
+        "hex": "#5A6435"
+      },
+      {
+        "name": "Aubergine",
+        "hex": "#4A2545"
+      },
+      {
+        "name": "Sienna",
+        "hex": "#A0522D"
+      },
+      {
+        "name": "Forest",
+        "hex": "#2D5A27"
+      },
+      {
+        "name": "Bronze",
+        "hex": "#A67B3C"
+      },
+      {
+        "name": "Spice Orange",
+        "hex": "#D2691E"
+      },
+      {
+        "name": "Deep Mustard",
+        "hex": "#B8860B"
+      }
+    ],
+    "avoid": [
+      "Light grey",
+      "Muted pastels",
+      "Washed tones"
+    ]
+  },
+  {
+    "tone": "caramel",
+    "undertone": "cool",
+    "label": "Cool",
+    "season": "Deep Winter",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Emerald",
+        "hex": "#1B6B45"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#7C1D2E"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Plum",
+        "hex": "#5C2A4D"
+      },
+      {
+        "name": "Teal",
+        "hex": "#2A6B6B"
+      },
+      {
+        "name": "Sapphire",
+        "hex": "#1F3C88"
+      },
+      {
+        "name": "Fuchsia",
+        "hex": "#C2185B"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#3D3D3D"
+      }
+    ],
+    "avoid": [
+      "Orange",
+      "Camel",
+      "Warm beige"
+    ]
+  },
+  {
+    "tone": "caramel",
+    "undertone": "neutral",
+    "label": "Neutral",
+    "season": "Soft Autumn",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Forest",
+        "hex": "#2D5A27"
+      },
+      {
+        "name": "Teal",
+        "hex": "#2A6B6B"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#7C1D2E"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#C4622D"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Bronze",
+        "hex": "#A67B3C"
+      },
+      {
+        "name": "Deep Olive",
+        "hex": "#5A6435"
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B"
+      }
+    ],
+    "avoid": [
+      "Light grey",
+      "Washed tones",
+      "Neon shades"
+    ]
+  },
+  {
+    "tone": "mocha",
+    "undertone": "warm",
+    "label": "Warm · Deep",
+    "season": "Deep Autumn",
+    "is_default": true,
+    "colours": [
+      {
+        "name": "Gold",
+        "hex": "#C69B3C"
+      },
+      {
+        "name": "Rust",
+        "hex": "#A03E1E"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Forest",
+        "hex": "#2D5A27"
+      },
+      {
+        "name": "Saffron",
+        "hex": "#E8820C"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#C4622D"
+      },
+      {
+        "name": "Deep Olive",
+        "hex": "#5A6435"
+      },
+      {
+        "name": "Bronze",
+        "hex": "#A67B3C"
+      }
+    ],
+    "avoid": [
+      "Pale beige",
+      "Light nude",
+      "Washed tones"
+    ]
+  },
+  {
+    "tone": "mocha",
+    "undertone": "cool",
+    "label": "Cool · Deep",
+    "season": "Deep Winter",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Emerald",
+        "hex": "#1B6B45"
+      },
+      {
+        "name": "Sapphire",
+        "hex": "#1F3C88"
+      },
+      {
+        "name": "Fuchsia",
+        "hex": "#C2185B"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#7C1D2E"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#3D3D3D"
+      },
+      {
+        "name": "Plum",
+        "hex": "#5C2A4D"
+      },
+      {
+        "name": "True Red",
+        "hex": "#C0182B"
+      },
+      {
+        "name": "Amethyst",
+        "hex": "#6C4AB0"
+      }
+    ],
+    "avoid": [
+      "Orange",
+      "Rust",
+      "Golden beige"
+    ]
+  },
+  {
+    "tone": "mocha",
+    "undertone": "neutral",
+    "label": "Neutral · Deep",
+    "season": "Deep Autumn",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Gold",
+        "hex": "#C69B3C"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#1B6B45"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#7C1D2E"
+      },
+      {
+        "name": "Saffron",
+        "hex": "#E8820C"
+      },
+      {
+        "name": "Forest",
+        "hex": "#2D5A27"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#C4622D"
+      },
+      {
+        "name": "Bronze",
+        "hex": "#A67B3C"
+      }
+    ],
+    "avoid": [
+      "Pale beige",
+      "Washed tones",
+      "Muddy browns"
+    ]
+  },
+  {
+    "tone": "espresso",
+    "undertone": "neutral",
+    "label": "Deep · Rich",
+    "season": "Deep Winter",
+    "is_default": true,
+    "colours": [
+      {
+        "name": "Emerald",
+        "hex": "#1B6B45"
+      },
+      {
+        "name": "Indigo",
+        "hex": "#3D3580"
+      },
+      {
+        "name": "Gold",
+        "hex": "#C69B3C"
+      },
+      {
+        "name": "Saffron",
+        "hex": "#E8820C"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#7C1D2E"
+      },
+      {
+        "name": "Sapphire",
+        "hex": "#1F3C88"
+      },
+      {
+        "name": "Fuchsia",
+        "hex": "#C2185B"
+      },
+      {
+        "name": "True Red",
+        "hex": "#C0182B"
+      }
+    ],
+    "avoid": [
+      "Dark brown",
+      "Muddy tones",
+      "Very dark navy"
+    ]
+  },
+  {
+    "tone": "espresso",
+    "undertone": "warm",
+    "label": "Warm · Deep",
+    "season": "Deep Autumn",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Gold",
+        "hex": "#C69B3C"
+      },
+      {
+        "name": "Saffron",
+        "hex": "#E8820C"
+      },
+      {
+        "name": "Marigold",
+        "hex": "#E8A013"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#1B6B45"
+      },
+      {
+        "name": "Rust",
+        "hex": "#A03E1E"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#C4622D"
+      },
+      {
+        "name": "Forest",
+        "hex": "#2D5A27"
+      },
+      {
+        "name": "Bronze",
+        "hex": "#A67B3C"
+      }
+    ],
+    "avoid": [
+      "Muddy browns",
+      "Dark brown",
+      "Dusty pastels"
+    ]
+  },
+  {
+    "tone": "espresso",
+    "undertone": "cool",
+    "label": "Cool · Deep",
+    "season": "Deep Winter",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Fuchsia",
+        "hex": "#C2185B"
+      },
+      {
+        "name": "Sapphire",
+        "hex": "#1F3C88"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#1B6B45"
+      },
+      {
+        "name": "True Red",
+        "hex": "#C0182B"
+      },
+      {
+        "name": "Amethyst",
+        "hex": "#6C4AB0"
+      },
+      {
+        "name": "Indigo",
+        "hex": "#3D3580"
+      },
+      {
+        "name": "Plum",
+        "hex": "#5C2A4D"
+      },
+      {
+        "name": "Icy Blue",
+        "hex": "#A8C8DC"
+      }
+    ],
+    "avoid": [
+      "Orange",
+      "Camel",
+      "Muddy browns"
+    ]
+  },
+  {
+    "tone": "cacao",
+    "undertone": "neutral",
+    "label": "Deep · Rich",
+    "season": "Deep Winter",
+    "is_default": true,
+    "colours": [
+      {
+        "name": "Emerald",
+        "hex": "#1B6B45"
+      },
+      {
+        "name": "Sapphire",
+        "hex": "#1F3C88"
+      },
+      {
+        "name": "Gold",
+        "hex": "#C69B3C"
+      },
+      {
+        "name": "True Red",
+        "hex": "#C0182B"
+      },
+      {
+        "name": "Fuchsia",
+        "hex": "#C2185B"
+      },
+      {
+        "name": "Marigold",
+        "hex": "#E8A013"
+      },
+      {
+        "name": "Amethyst",
+        "hex": "#6C4AB0"
+      },
+      {
+        "name": "Icy Blue",
+        "hex": "#A8C8DC"
+      }
+    ],
+    "avoid": [
+      "Muddy browns",
+      "Dusty pastels",
+      "Faded tones"
+    ]
+  },
+  {
+    "tone": "cacao",
+    "undertone": "warm",
+    "label": "Warm · Deep",
+    "season": "Deep Autumn",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Gold",
+        "hex": "#C69B3C"
+      },
+      {
+        "name": "Saffron",
+        "hex": "#E8820C"
+      },
+      {
+        "name": "Marigold",
+        "hex": "#E8A013"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#1B6B45"
+      },
+      {
+        "name": "Rust",
+        "hex": "#A03E1E"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#C4622D"
+      },
+      {
+        "name": "Bronze",
+        "hex": "#A67B3C"
+      },
+      {
+        "name": "Warm Cream",
+        "hex": "#F5E9D0"
+      }
+    ],
+    "avoid": [
+      "Muddy browns",
+      "Washed tones",
+      "Pale beige"
+    ]
+  },
+  {
+    "tone": "cacao",
+    "undertone": "cool",
+    "label": "Cool · Deep",
+    "season": "Deep Winter",
+    "is_default": false,
+    "colours": [
+      {
+        "name": "Fuchsia",
+        "hex": "#C2185B"
+      },
+      {
+        "name": "Sapphire",
+        "hex": "#1F3C88"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#1B6B45"
+      },
+      {
+        "name": "True Red",
+        "hex": "#C0182B"
+      },
+      {
+        "name": "Amethyst",
+        "hex": "#6C4AB0"
+      },
+      {
+        "name": "Icy Blue",
+        "hex": "#A8C8DC"
+      },
+      {
+        "name": "Indigo",
+        "hex": "#3D3580"
+      },
+      {
+        "name": "Cobalt",
+        "hex": "#1B4DA8"
+      }
+    ],
+    "avoid": [
+      "Orange",
+      "Camel",
+      "Muddy browns"
+    ]
+  }
+]
