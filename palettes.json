@@ -43,7 +43,25 @@
       "Bright white",
       "Pale yellow",
       "Neon shades"
-    ]
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Dove Grey",
+        "hex": "#A9AFB6",
+        "lightness_gap_vs_skin": 20
+      },
+      {
+        "name": "Soft Navy",
+        "hex": "#3B4A63",
+        "lightness_gap_vs_skin": 58
+      },
+      {
+        "name": "Cool Taupe",
+        "hex": "#9E9891",
+        "lightness_gap_vs_skin": 30
+      }
+    ],
+    "neutrals_below_waist_only": []
   },
   {
     "tone": "ivory",
@@ -89,6 +107,25 @@
       "Stark black",
       "Icy pastels",
       "Neon shades"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Camel",
+        "hex": "#C19A6B",
+        "lightness_gap_vs_skin": 30
+      },
+      {
+        "name": "Light Warm Grey",
+        "hex": "#B7ADA1",
+        "lightness_gap_vs_skin": 22
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Warm Ivory",
+        "hex": "#F5E9D0",
+        "lightness_gap_vs_skin": 0
+      }
     ]
   },
   {
@@ -135,7 +172,25 @@
       "Bright white",
       "Neon shades",
       "Harsh black"
-    ]
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Dove Grey",
+        "hex": "#A9AFB6",
+        "lightness_gap_vs_skin": 20
+      },
+      {
+        "name": "Soft Navy",
+        "hex": "#3B4A63",
+        "lightness_gap_vs_skin": 58
+      },
+      {
+        "name": "Cool Taupe",
+        "hex": "#9E9891",
+        "lightness_gap_vs_skin": 30
+      }
+    ],
+    "neutrals_below_waist_only": []
   },
   {
     "tone": "honey",
@@ -181,6 +236,25 @@
       "Pastel pink",
       "Light lavender",
       "Light grey"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Camel",
+        "hex": "#C19A6B",
+        "lightness_gap_vs_skin": 24
+      },
+      {
+        "name": "Warm Beige",
+        "hex": "#CBB79A",
+        "lightness_gap_vs_skin": 12
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Warm Ivory",
+        "hex": "#F5E9D0",
+        "lightness_gap_vs_skin": 6
+      }
     ]
   },
   {
@@ -227,7 +301,25 @@
       "Orange",
       "Mustard",
       "Camel"
-    ]
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Dove Grey",
+        "hex": "#A9AFB6",
+        "lightness_gap_vs_skin": 14
+      },
+      {
+        "name": "Soft Navy",
+        "hex": "#3B4A63",
+        "lightness_gap_vs_skin": 51
+      },
+      {
+        "name": "Cool Taupe",
+        "hex": "#9E9891",
+        "lightness_gap_vs_skin": 23
+      }
+    ],
+    "neutrals_below_waist_only": []
   },
   {
     "tone": "honey",
@@ -273,7 +365,30 @@
       "Neon shades",
       "Light grey",
       "Pale pastels"
-    ]
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Soft Charcoal",
+        "hex": "#4A4A47",
+        "lightness_gap_vs_skin": 54
+      },
+      {
+        "name": "Warm Grey",
+        "hex": "#8C8378",
+        "lightness_gap_vs_skin": 31
+      },
+      {
+        "name": "Taupe",
+        "hex": "#9C8B78",
+        "lightness_gap_vs_skin": 28
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B",
+        "lightness_gap_vs_skin": 24
+      }
+    ],
+    "neutrals_below_waist_only": []
   },
   {
     "tone": "golden",
@@ -319,7 +434,30 @@
       "Bright white",
       "Neon green",
       "Light pastels"
-    ]
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Chocolate",
+        "hex": "#4E342E",
+        "lightness_gap_vs_skin": 47
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B",
+        "lightness_gap_vs_skin": 13
+      },
+      {
+        "name": "Deep Olive",
+        "hex": "#4F5A33",
+        "lightness_gap_vs_skin": 44
+      },
+      {
+        "name": "Warm Ivory",
+        "hex": "#F5E9D0",
+        "lightness_gap_vs_skin": 17
+      }
+    ],
+    "neutrals_below_waist_only": []
   },
   {
     "tone": "golden",
@@ -365,6 +503,25 @@
       "Orange",
       "Mustard",
       "Warm beige"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Soft Navy",
+        "hex": "#3B4A63",
+        "lightness_gap_vs_skin": 41
+      },
+      {
+        "name": "Cool Taupe",
+        "hex": "#9E9891",
+        "lightness_gap_vs_skin": 12
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Dove Grey",
+        "hex": "#A9AFB6",
+        "lightness_gap_vs_skin": 3
+      }
     ]
   },
   {
@@ -411,7 +568,30 @@
       "Bright white",
       "Neon shades",
       "Washed pastels"
-    ]
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Soft Charcoal",
+        "hex": "#4A4A47",
+        "lightness_gap_vs_skin": 43
+      },
+      {
+        "name": "Warm Grey",
+        "hex": "#8C8378",
+        "lightness_gap_vs_skin": 21
+      },
+      {
+        "name": "Taupe",
+        "hex": "#9C8B78",
+        "lightness_gap_vs_skin": 17
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B",
+        "lightness_gap_vs_skin": 13
+      }
+    ],
+    "neutrals_below_waist_only": []
   },
   {
     "tone": "amber",
@@ -457,6 +637,30 @@
       "Bright white",
       "Neon shades",
       "Icy pastels"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Chocolate",
+        "hex": "#4E342E",
+        "lightness_gap_vs_skin": 35
+      },
+      {
+        "name": "Deep Olive",
+        "hex": "#4F5A33",
+        "lightness_gap_vs_skin": 32
+      },
+      {
+        "name": "Warm Ivory",
+        "hex": "#F5E9D0",
+        "lightness_gap_vs_skin": 29
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Camel",
+        "hex": "#C19A6B",
+        "lightness_gap_vs_skin": 1
+      }
     ]
   },
   {
@@ -503,6 +707,25 @@
       "Orange",
       "Mustard",
       "Warm beige"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Soft Navy",
+        "hex": "#3B4A63",
+        "lightness_gap_vs_skin": 29
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Dove Grey",
+        "hex": "#A9AFB6",
+        "lightness_gap_vs_skin": 9
+      },
+      {
+        "name": "Cool Taupe",
+        "hex": "#9E9891",
+        "lightness_gap_vs_skin": 0
+      }
     ]
   },
   {
@@ -549,6 +772,30 @@
       "Neon shades",
       "Light grey",
       "Washed pastels"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Soft Charcoal",
+        "hex": "#4A4A47",
+        "lightness_gap_vs_skin": 31
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Warm Grey",
+        "hex": "#8C8378",
+        "lightness_gap_vs_skin": 9
+      },
+      {
+        "name": "Taupe",
+        "hex": "#9C8B78",
+        "lightness_gap_vs_skin": 5
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B",
+        "lightness_gap_vs_skin": 1
+      }
     ]
   },
   {
@@ -595,6 +842,30 @@
       "Light grey",
       "Muted pastels",
       "Washed tones"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Chocolate",
+        "hex": "#3E2A22",
+        "lightness_gap_vs_skin": 29
+      },
+      {
+        "name": "Deep Olive",
+        "hex": "#3F4A2A",
+        "lightness_gap_vs_skin": 25
+      },
+      {
+        "name": "Warm Ivory",
+        "hex": "#EFE3CB",
+        "lightness_gap_vs_skin": 38
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Camel",
+        "hex": "#B08D62",
+        "lightness_gap_vs_skin": 5
+      }
     ]
   },
   {
@@ -641,7 +912,30 @@
       "Orange",
       "Camel",
       "Warm beige"
-    ]
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Black",
+        "hex": "#1A1A1A",
+        "lightness_gap_vs_skin": 38
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#333338",
+        "lightness_gap_vs_skin": 27
+      },
+      {
+        "name": "Deep Navy",
+        "hex": "#1E2A44",
+        "lightness_gap_vs_skin": 29
+      },
+      {
+        "name": "Pure White",
+        "hex": "#F7F7F5",
+        "lightness_gap_vs_skin": 48
+      }
+    ],
+    "neutrals_below_waist_only": []
   },
   {
     "tone": "caramel",
@@ -687,6 +981,30 @@
       "Light grey",
       "Washed tones",
       "Neon shades"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Soft Charcoal",
+        "hex": "#4A4A47",
+        "lightness_gap_vs_skin": 20
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Warm Grey",
+        "hex": "#8C8378",
+        "lightness_gap_vs_skin": 3
+      },
+      {
+        "name": "Taupe",
+        "hex": "#9C8B78",
+        "lightness_gap_vs_skin": 6
+      },
+      {
+        "name": "Camel",
+        "hex": "#C19A6B",
+        "lightness_gap_vs_skin": 11
+      }
     ]
   },
   {
@@ -733,7 +1051,30 @@
       "Pale beige",
       "Light nude",
       "Washed tones"
-    ]
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Chocolate",
+        "hex": "#3E2A22",
+        "lightness_gap_vs_skin": 20
+      },
+      {
+        "name": "Deep Olive",
+        "hex": "#3F4A2A",
+        "lightness_gap_vs_skin": 16
+      },
+      {
+        "name": "Camel",
+        "hex": "#B08D62",
+        "lightness_gap_vs_skin": 15
+      },
+      {
+        "name": "Warm Ivory",
+        "hex": "#EFE3CB",
+        "lightness_gap_vs_skin": 48
+      }
+    ],
+    "neutrals_below_waist_only": []
   },
   {
     "tone": "mocha",
@@ -779,7 +1120,30 @@
       "Orange",
       "Rust",
       "Golden beige"
-    ]
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Black",
+        "hex": "#1A1A1A",
+        "lightness_gap_vs_skin": 28
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#333338",
+        "lightness_gap_vs_skin": 18
+      },
+      {
+        "name": "Deep Navy",
+        "hex": "#1E2A44",
+        "lightness_gap_vs_skin": 19
+      },
+      {
+        "name": "Pure White",
+        "hex": "#F7F7F5",
+        "lightness_gap_vs_skin": 58
+      }
+    ],
+    "neutrals_below_waist_only": []
   },
   {
     "tone": "mocha",
@@ -825,7 +1189,30 @@
       "Pale beige",
       "Washed tones",
       "Muddy browns"
-    ]
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Chocolate",
+        "hex": "#3E2A22",
+        "lightness_gap_vs_skin": 20
+      },
+      {
+        "name": "Deep Olive",
+        "hex": "#3F4A2A",
+        "lightness_gap_vs_skin": 16
+      },
+      {
+        "name": "Camel",
+        "hex": "#B08D62",
+        "lightness_gap_vs_skin": 15
+      },
+      {
+        "name": "Warm Ivory",
+        "hex": "#EFE3CB",
+        "lightness_gap_vs_skin": 48
+      }
+    ],
+    "neutrals_below_waist_only": []
   },
   {
     "tone": "espresso",
@@ -871,6 +1258,30 @@
       "Dark brown",
       "Muddy tones",
       "Very dark navy"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Black",
+        "hex": "#1A1A1A",
+        "lightness_gap_vs_skin": 19
+      },
+      {
+        "name": "Pure White",
+        "hex": "#F7F7F5",
+        "lightness_gap_vs_skin": 67
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Charcoal",
+        "hex": "#333338",
+        "lightness_gap_vs_skin": 8
+      },
+      {
+        "name": "Deep Navy",
+        "hex": "#1E2A44",
+        "lightness_gap_vs_skin": 10
+      }
     ]
   },
   {
@@ -917,6 +1328,30 @@
       "Muddy browns",
       "Dark brown",
       "Dusty pastels"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Camel",
+        "hex": "#B08D62",
+        "lightness_gap_vs_skin": 25
+      },
+      {
+        "name": "Warm Ivory",
+        "hex": "#EFE3CB",
+        "lightness_gap_vs_skin": 58
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Chocolate",
+        "hex": "#3E2A22",
+        "lightness_gap_vs_skin": 10
+      },
+      {
+        "name": "Deep Olive",
+        "hex": "#3F4A2A",
+        "lightness_gap_vs_skin": 6
+      }
     ]
   },
   {
@@ -963,6 +1398,30 @@
       "Orange",
       "Camel",
       "Muddy browns"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Black",
+        "hex": "#1A1A1A",
+        "lightness_gap_vs_skin": 19
+      },
+      {
+        "name": "Pure White",
+        "hex": "#F7F7F5",
+        "lightness_gap_vs_skin": 67
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Charcoal",
+        "hex": "#333338",
+        "lightness_gap_vs_skin": 8
+      },
+      {
+        "name": "Deep Navy",
+        "hex": "#1E2A44",
+        "lightness_gap_vs_skin": 10
+      }
     ]
   },
   {
@@ -1009,6 +1468,30 @@
       "Muddy browns",
       "Dusty pastels",
       "Faded tones"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Pure White",
+        "hex": "#F7F7F5",
+        "lightness_gap_vs_skin": 77
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Black",
+        "hex": "#1A1A1A",
+        "lightness_gap_vs_skin": 9
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#333338",
+        "lightness_gap_vs_skin": 1
+      },
+      {
+        "name": "Deep Navy",
+        "hex": "#1E2A44",
+        "lightness_gap_vs_skin": 0
+      }
     ]
   },
   {
@@ -1055,6 +1538,30 @@
       "Muddy browns",
       "Washed tones",
       "Pale beige"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Camel",
+        "hex": "#B08D62",
+        "lightness_gap_vs_skin": 34
+      },
+      {
+        "name": "Warm Ivory",
+        "hex": "#EFE3CB",
+        "lightness_gap_vs_skin": 67
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Chocolate",
+        "hex": "#3E2A22",
+        "lightness_gap_vs_skin": 1
+      },
+      {
+        "name": "Deep Olive",
+        "hex": "#3F4A2A",
+        "lightness_gap_vs_skin": 3
+      }
     ]
   },
   {
@@ -1101,6 +1608,30 @@
       "Orange",
       "Camel",
       "Muddy browns"
+    ],
+    "neutrals_near_face": [
+      {
+        "name": "Pure White",
+        "hex": "#F7F7F5",
+        "lightness_gap_vs_skin": 77
+      }
+    ],
+    "neutrals_below_waist_only": [
+      {
+        "name": "Black",
+        "hex": "#1A1A1A",
+        "lightness_gap_vs_skin": 9
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#333338",
+        "lightness_gap_vs_skin": 1
+      },
+      {
+        "name": "Deep Navy",
+        "hex": "#1E2A44",
+        "lightness_gap_vs_skin": 0
+      }
     ]
   }
 ]
