@@ -19,7 +19,7 @@ Use it, fork it, build on it. Just say where it came from.
 | File | Contents |
 |---|---|
 | `tones.json` | The 8 tones, with Monk and Fitzpatrick mappings |
-| `palettes.json` | **All 24 palettes** — 8 tones × 3 undertones — 8 colours each, plus colours to avoid |
+| `palettes.json` | **All 24 palettes** — 8 tones × 3 undertones — 8 colours each, colours to avoid, and each palette's neutrals **split by where on the body they work** |
 | `palettes.csv` | The same 192 colours, flat, for spreadsheets and pandas |
 | `season-neutrals.json` | Neutrals by seasonal family — **the part most datasets omit** |
 | `pairings.json` | A four-term taxonomy for classifying any two-colour combination |
@@ -53,6 +53,26 @@ Two are additions:
 - **Cacao** exists because the deepest swatch on most charts is not the deepest skin
 
 ⚠️ **Amber's palette currently overlaps Golden's by 7 of 8 colours.** They share a season, so they also share neutrals. **This is a known weakness, not a hidden one** — see `METHODOLOGY.md`.
+
+---
+
+## A neutral is not one question, it is two
+
+Most colour systems give you a list of neutrals for your season and stop. That list answers *will this neutral fight the colour next to it* — useful for a trouser, which sits away from the face and only has to not clash with the top.
+
+**It does not answer whether the neutral disappears against you.** Camel on Amber skin is **1 point of lightness** apart. It does not clash; it vanishes, and takes the face with it.
+
+So every palette carries both:
+
+```json
+"neutrals_near_face":        [ { "name": "Pure White", "hex": "#F7F7F5", "lightness_gap_vs_skin": 77 } ],
+"neutrals_below_waist_only": [ { "name": "Black",      "hex": "#1A1A1A", "lightness_gap_vs_skin": 9  },
+                               { "name": "Deep Navy",  "hex": "#1E2A44", "lightness_gap_vs_skin": 0  } ]
+```
+
+> 🔴 **14 of the 24 palettes have at least one neutral that fails against their own wearer.** Every palette keeps at least one that works, so this always splits the list and never empties it.
+
+**Cacao is the clearest case.** Black clears all eight of her palette colours — a flawless neutral by the usual test — and sits 9 points from her own skin. **Black trousers under an emerald kurta are excellent. A black collar is invisible.**
 
 ---
 

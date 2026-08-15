@@ -43,6 +43,20 @@ Neutrals are **not universal**, and using the wrong family is the most common wa
 
 **Pairing rule:** a neutral must differ from the colour it sits against by **at least 12 points of lightness**, or it stops reading as a deliberate contrast. Across the 24 palettes, **15 neutral/colour combinations fail that test** and are excluded — the neutral is not dropped, because it remains correct for the season and works against other colours in the same palette.
 
+### 🔴 That rule answers only half the question
+
+The test above compares a neutral to **the garment next to it**. It says nothing about the neutral against **the wearer's own depth**, and those are different questions with different answers.
+
+A neutral worn below the waist only has to not fight the top. A neutral worn **near the face** has to clear the face itself — and a camel shirt on Amber skin is **1 point of lightness** away from it. It does not clash; it disappears, and takes the face with it.
+
+Applying the same 12-point threshold to *skin vs neutral* rather than *colour vs neutral*:
+
+> **14 of the 24 variants list at least one season neutral that fails against their own wearer.** Warm Ivory for Ivory-warm (0) and Honey-warm (6), Camel for Amber-warm (1), Dove Grey and Cool Taupe for Amber-cool, Charcoal (8) and Deep Navy (10) for Espresso, and Black (9), Charcoal (1) and Deep Navy (0) for Cacao.
+
+**Every variant retains at least one**, so this splits a palette's neutrals into *near the face* and *below the waist* — it never leaves someone with none.
+
+⚠️ **This omission was live in the production tool from launch until 14 Aug 2026.** It is recorded here rather than quietly fixed, because anyone building on this data would have inherited it.
+
 ⚠️ **These neutral hex values are the least validated numbers in the dataset.** They were chosen to match published season descriptions, **not measured from garments.** If you have measured values, they are the most useful contribution you could make.
 
 ## 4. The pairing taxonomy
