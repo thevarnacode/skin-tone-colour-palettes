@@ -605,8 +605,16 @@
         "hex": "#C4622D"
       },
       {
-        "name": "Mustard",
-        "hex": "#C8921A"
+        "name": "Sienna",
+        "hex": "#A0522D"
+      },
+      {
+        "name": "Rust",
+        "hex": "#A03E1E"
+      },
+      {
+        "name": "Deep Mustard",
+        "hex": "#B8860B"
       },
       {
         "name": "Olive",
@@ -617,20 +625,12 @@
         "hex": "#2A6B6B"
       },
       {
-        "name": "Rust",
-        "hex": "#A03E1E"
-      },
-      {
-        "name": "Navy",
-        "hex": "#1B2A4A"
+        "name": "Aubergine",
+        "hex": "#4A2545"
       },
       {
         "name": "Bronze",
         "hex": "#A67B3C"
-      },
-      {
-        "name": "Camel",
-        "hex": "#C19A6B"
       }
     ],
     "avoid": [
