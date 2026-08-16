@@ -52,7 +52,7 @@ Two are additions:
 - **Amber** fills the Intermediate band, which sits empty on most charts and is where a great deal of medium skin falls
 - **Cacao** exists because the deepest swatch on most charts is not the deepest skin
 
-⚠️ **Amber's palette currently overlaps Golden's by 7 of 8 colours.** They share a season, so they also share neutrals. **This is a known weakness, not a hidden one** — see `METHODOLOGY.md`.
+✅ **Amber was rebuilt on 15 Aug 2026.** It previously shared 7 of 8 colours with Golden and produced all six of the same pairings — and it contained Camel, which sits **one point of lightness** from Amber's own skin. It now shares **4 of 8 with Golden and 5 of 8 with Caramel**, with **no pairings in common with either neighbour**. See `METHODOLOGY.md` for the substitutions and the reasoning.
 
 ---
 

@@ -79,9 +79,27 @@ Fixed thresholds were tried first **and failed twice.**
 
 ## 5. Known weaknesses
 
-**🔴 Amber overlaps Golden by 7 of 8 colours.** They also share a season, so identical neutrals and identical pairing behaviour. Amber is distinguishable on a chart and close to indistinguishable in a wardrobe. Amber was added because the Intermediate band was empty — a classification argument that the palette does not yet fully earn. **Unresolved.**
+**✅ The Amber overlap is resolved — 15 Aug 2026.** Amber previously shared **7 of 8 colours with Golden** and produced **all six of the same pairings**, which meant the two tones were distinguishable on a chart and effectively identical in a wardrobe.
 
-**Espresso and Cacao share 5 of 8**, and Caramel and Mocha share 4. Those are defensible for adjacent depths; the Amber case is not.
+**A second and worse problem surfaced while fixing it:** Amber's palette contained **Camel `#C19A6B` at lightness 59, against Amber skin at 60** — a one-point gap. The palette listed as one of Amber's colours a shade that vanishes against Amber's own face, contradicting §3's own rule.
+
+Three substitutions, chosen so Amber sits between its neighbours rather than shadowing one:
+
+| Out | In | Reason |
+|---|---|---|
+| Camel `#C19A6B` L59 | **Sienna `#A0522D`** L40 | Removes the colour that disappears on the wearer |
+| Navy `#1B2A4A` L20 | **Aubergine `#4A2545`** L22 | Same anchoring depth, different hue — this is what broke the Golden lookalike |
+| Mustard `#C8921A` L44 | **Deep Mustard `#B8860B`** L38 | The intermediate step between Golden's mustard and Caramel's |
+
+| | Before | After |
+|---|---|---|
+| Colours shared with Golden | 7 of 8 | **4 of 8** |
+| Pairings shared with Golden | 6 of 6 | **0 of 6** |
+| Colours shared with Caramel | 2 of 8 | **5 of 8** |
+
+⚠️ **This changes the palette for anyone previously classified Amber · warm.** That is deliberate: the prior palette was wrong twice over.
+
+**Espresso and Cacao share 5 of 8**, and Caramel and Mocha share 4. Those are defensible for adjacent depths.
 
 **Names are not unique to hex values.** Five names carry more than one hex across the system — Deep Olive appears at three values, and Camel, Charcoal, Chocolate and Warm Ivory at two each, because neutrals are season-tuned. **Match on hex, not on name.** One value, `#F5E9D0`, carries two names: *Warm Cream* as a palette colour and *Warm Ivory* as a neutral.
 
