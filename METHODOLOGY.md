@@ -113,4 +113,6 @@ Three substitutions, chosen so Amber sits between its neighbours rather than sha
 
 If something here is wrong, opening an issue is genuinely welcome — particularly measured values, or evidence that a tone at a depth or undertone this handles badly.
 
-**The Amber overlap is the known open problem.** A palette that keeps Amber between its neighbours rather than duplicating Golden would be the single most valuable fix.
+**The most useful contributions now are measured values.** Every hex here is specified rather than read off fabric with an instrument — see §3 on the neutrals in particular, which are the least validated numbers in the set.
+
+*The Amber overlap, previously listed here as the open problem, was resolved on 15 Aug 2026. See §5.*

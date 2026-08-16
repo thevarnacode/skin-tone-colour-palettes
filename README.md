@@ -128,9 +128,9 @@ For academic use see `CITATION.cff`.
 
 Corrections welcome, particularly:
 
-- **Measured values** from real garments to check the specified ones against
+- **Measured values** from real garments to check the specified ones against — the neutrals especially, which are the least validated numbers here
 - **Under-represented tones** — if you sit at a depth or undertone this handles badly, that is the most useful issue you can open
-- **The Amber overlap**, which needs solving properly
+- **Neutrals that fail against a wearer** — if one of the near-face neutrals still disappears on you, that is exactly the case this data is trying to catch
 
 ---
 
