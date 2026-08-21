@@ -10,6 +10,8 @@ Every dataset has judgement calls in it. This one writes them down.
 
 **Depth and undertone are physical properties, not ethnic ones.** The range takes in most South Asian skin and a great deal of Middle Eastern, North African, Latin American, Southeast Asian and Black skin. It was built in India because that is where the gap was most visible to the author. **Nothing in the data is India-specific** — the India-specific material (occasion vocabulary: haldi, mehendi, sangeet) lives on the website, not here.
 
+🟢 **That is now a cited position rather than a reasonable one.** Across **14,000+ skin reflectance measurements from eight ethnically diverse populations**, within-group variability exceeds between-group variability, and **89.4% of samples have perceptually indistinguishable counterparts across ethnicities.** — [Lu et al., *Skin Colour Does Not Define Ethnicity*, Skin Research and Technology, March 2026](https://onlinelibrary.wiley.com/doi/10.1111/srt.70343)
+
 ## 1. How the eight tones were fixed
 
 The tone swatches are the **published Monk Skin Tone Scale** values for six of the eight. Monk was released by Ellis Monk with Google in 2023, with ten shades, six of them covering medium and deep skin — built explicitly because earlier scales under-represented darker skin.
@@ -22,6 +24,13 @@ The tone swatches are the **published Monk Skin Tone Scale** values for six of t
 | **Cacao** `#3A312A` | The deepest swatch on most charts is not the deepest skin |
 
 **Fitzpatrick values are included for orientation only.** That scale was created in 1975 to predict how skin responds to UV — a burn-risk instrument, not a description of appearance. In its original form it did not include darker skin at all; types V and VI were appended later. It still gives four categories to light skin and two to everything else. **Do not use it to choose colours.**
+
+🔴 **And do not read the pairing as a correspondence.** Listing a Monk value beside a Fitzpatrick range makes them look equivalent. They are not, and the published work says so:
+
+- **ITA° does not significantly predict Fitzpatrick type** (n=440, p=0.3528), while it associates strongly with self-described skin colour (p<2.2e-16). The authors conclude the two are "distinct and non-equivalent systems." — [Weis et al. 2025](https://scholarlycommons.hcahealthcare.com/northtexas2025/79/)
+- A large multiethnic benchmark states plainly that "the relationship between FST and MST is not well known" and that clinical validation of MST is limited. — [O'Hagan, Sharma & Ungar, *JDD* 24(7), 2025](https://jddonline.com/articles/large-multiethnic-comparison-benchmark-of-fitzpatrick-monk-skin-tone-scales-S1545961625P8618X)
+
+⚠️ **The Fitzpatrick column is a search convenience, not a claim.** People look themselves up by Fitzpatrick because it is the scale they have met before. **Nothing in this dataset is computed from it.**
 
 ## 2. How the palettes were derived
 
@@ -106,6 +115,10 @@ Three substitutions, chosen so Amber sits between its neighbours rather than sha
 **Undertone assignment is not measured here.** The dataset provides the palettes; deciding which undertone someone is remains a judgement, and the production tool makes it from self-reported vein and jewellery observation rather than instrumentation.
 
 **No spectrophotometry anywhere.** These are specified values. Real fabric will differ by dye lot, weave and finish.
+
+🔴 **The depth axis is least precise at exactly the end this project is built on.** ITA° = arctan((L\*−50)/b\*), so it depends on b\*. Melanin drives b\* in lighter skin (r=0.71, p<0.00001), but **in darker skin b\* reaches a maximum and then falls** as melanin rises — high epidermal melanin optically masks yellow light ([Alaluf et al. 2002](https://pubmed.ncbi.nlm.nih.gov/11936269/)). ITA bins are also **non-uniform, and much wider for darker skin**, with sparse validation data at the high-melanin end ([Communications Medicine, 2024](https://www.nature.com/articles/s43856-024-00550-7)).
+
+**What this does and does not undermine.** The *ordering* of the eight tones is safe — deeper is reliably deeper. The *precision* is not uniform along it. **Espresso and Cacao sit where the bins are widest and the b\* term is compressing**, and because undertone separation leans on b\*, undertone is hardest to call exactly where this dataset claims to be most useful. That is a real limitation and it is stated here rather than left to be discovered.
 
 ---
 
