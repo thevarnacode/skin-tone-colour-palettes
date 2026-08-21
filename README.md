@@ -18,7 +18,7 @@ Use it, fork it, build on it. Just say where it came from.
 
 | File | Contents |
 |---|---|
-| `tones.json` | The 8 tones, with Monk and Fitzpatrick mappings |
+| `tones.json` | The 8 tones, with Monk values and Fitzpatrick ranges *(listed side by side for orientation — [not a validated correspondence](METHODOLOGY.md))* |
 | `palettes.json` | **All 24 palettes** — 8 tones × 3 undertones — 8 colours each, colours to avoid, and each palette's neutrals **split by where on the body they work** |
 | `palettes.csv` | The same 192 colours, flat, for spreadsheets and pandas |
 | `season-neutrals.json` | Neutrals by seasonal family — **the part most datasets omit** |
@@ -116,7 +116,7 @@ For academic use see `CITATION.cff`.
 
 ## What this is not
 
-**It is not a medical or dermatological resource.** The Fitzpatrick mappings are included for orientation only; that scale was built in 1975 to predict UV response, not to describe appearance, and it does deeper skin no favours.
+**It is not a medical or dermatological resource.** Fitzpatrick ranges are listed for orientation only, and **not as a correspondence** — ITA° does not significantly predict Fitzpatrick type (n=440, p=0.3528). That scale was built in 1975 to predict UV response, not to describe appearance, and it does deeper skin no favours. See `METHODOLOGY.md` §1.
 
 **It is not measured from garments.** These are specified colour values, not spectrophotometer readings from fabric. Dye lots, weave and finish will all shift what you actually see.
 
@@ -139,3 +139,4 @@ Built by [Varna Code](https://varnacode.in) — a free colour tool for medium an
 ---
 
 ![The eight tones](tone-chart.png)
+
